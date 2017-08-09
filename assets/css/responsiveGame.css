@@ -1,0 +1,221 @@
+/* RESPONSIVE*/
+
+@media screen and (max-width: 1920px) {
+  .imgLogo {
+    width: 16em;
+  }
+}
+
+@media screen and (max-width: 1814px) {
+  .imgLogo {
+    width: 15em;
+  }
+  .text {
+    font-size: 1.9em;
+  }
+  .level {
+    font-size: 1.9em;
+  }
+}
+
+@media screen and (max-width: 1680px) {
+  .imgLogo {
+    width: 14.5em;
+  }
+  .text {
+    font-size: 1.8em;
+  }
+  .level {
+    font-size: 1.8em;
+  }
+}
+
+@media screen and (max-width: 1600px) {}
+
+@media screen and (max-width: 1536px) {
+  .touchpad {
+    height: 26vw;
+    width: 34.58vw;
+  }
+}
+
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 1366px) {
+  .touchpad {
+    height: 24vw;
+    width: 32.58vw;
+  }
+  .imgLogo {
+    width: 14.3em;
+  }
+  .text {
+    font-size: 1.7em;
+  }
+  .level {
+    font-size: 1.7em;
+  }
+}
+
+@media screen and (max-width: 1360px) {
+  .imgLogo {
+    width: 14.3em;
+  }
+  .text {
+    font-size: 1.6em;
+  }
+  .level {
+    font-size: 1.6em;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .touchpad {
+    height: 26vw;
+    width: 34.58vw;
+  }
+}
+
+@media screen and (max-width: 1195px) {}
+
+@media screen and (max-width: 1120px) {}
+
+@media screen and (max-width: 1024px) {
+  .touchpad {
+    height: 28vw;
+    width: 36.58vw;
+  }
+  .imgLogo {
+    width: 14.2em;
+  }
+  .text {
+    font-size: 1.6em;
+  }
+  .level {
+    font-size: 1.6em;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .touchpad {
+    height: 33vw;
+    width: 41.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .touchpad {
+    height: 34vw;
+    width: 42.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 603px) {
+  .touchpad {
+    height: 48vw;
+    width: 56.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 533px) {
+  .touchpad {
+    height: 58vw;
+    width: 66.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .touchpad {
+    height: 68vw;
+    width: 76.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .touchpad {
+    height: 68vw;
+    width: 76.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 412px) {}
+
+@media screen and (max-width: 360px) {
+  .touchpad {
+    height: 110vw;
+    width: 76.58vw;
+  }
+  .imgLogo {
+    width: 14em;
+  }
+  .text {
+    font-size: 1.3em;
+  }
+  .level {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+  }
+  .levelBoard .buttonsBox {
+    display: initial;
+  }
+}
+
+@media screen and (max-width: 320px) {}
+
+@media screen and (max-height: 442px) {}
+
+@media screen and (max-height: 375px) {}

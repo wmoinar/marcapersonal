@@ -1,0 +1,39 @@
+body {
+  background-color: #232323;
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 98vh;
+}
+
+p {
+  font-family: Inconsolata, source code pro, consolas, monospace;
+  margin-left: calc(40vw - 6em);
+  font-size: 1.5em;
+  font-weight: bold;
+  display: inte
+}
+
+.wmLogo {
+  font-family: Inconsolata, source code pro, consolas, monospace;
+  margin-left: calc(50vw - 5em);
+  font-size: 24px;
+  margin-top: calc(20vw - 25em);
+  font-weight: bold;
+  position: absolute;
+}
+
+.wmLogo:before {
+  content: "By Wilmer Moina";
+  position: fixed;
+  bottom: 1vh;
+  left: 1vh;
+  font-size: 1rem;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
